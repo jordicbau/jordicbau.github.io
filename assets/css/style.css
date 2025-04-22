@@ -67,10 +67,6 @@ nav a:hover {
   margin: 0 0.5rem;
 }
 
-.links a:hover {
-  text-decoration: underline;
-}
-
 .links img {
   margin: 0 10px;
   vertical-align: middle;
@@ -78,5 +74,5 @@ nav a:hover {
 }
 
 .links img:hover {
-  transform: scale(1.1);
+  transform: scale(1.4);
 }
