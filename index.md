@@ -22,8 +22,17 @@ title: Jordi Cerdà-Bautista
 </section>
 
 <section class="links">
-  <a href="https://github.com/jordicbau">GitHub</a> |
-  <a href="https://orcid.org/0000-0003-4512-6005">ORCID</a> |
-  <a href="https://scholar.google.com/citations?user=opHw5dAAAAAJ">Google Scholar</a> |
-  <a href="https://www.linkedin.com/in/jordi-cerd%C3%A0-bautista-93b1091bb/">LinkedIn</a>
+  <a href="https://github.com/jordicbau" target="_blank">
+    <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" height="30">
+  </a>
+  <a href="https://orcid.org/0000-0003-4512-6005" target="_blank">
+    <img src="{{ '/assets/images/orcid.png' | relative_url }}" alt="ORCID" height="30">
+  </a>
+  <a href="https://scholar.google.com/citations?user=opHw5dAAAAAJ" target="_blank">
+    <img src="{{ '/assets/images/google_scholar.png' | relative_url }}" alt="Google Scholar" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/jordi-cerd%C3%A0-bautista-93b1091bb/" target="_blank">
+    <img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn" height="30">
+  </a>
 </section>
+
