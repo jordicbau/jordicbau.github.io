@@ -70,3 +70,13 @@ nav a:hover {
 .links a:hover {
   text-decoration: underline;
 }
+
+.links img {
+  margin: 0 10px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+}
+
+.links img:hover {
+  transform: scale(1.1);
+}
