@@ -51,6 +51,7 @@ nav a:hover {
   text-align: center;
   font-size: 1.1rem;
   margin-bottom: 1.5rem;
+  border-radius: 10px;
 }
 
 .sections {
@@ -60,6 +61,7 @@ nav a:hover {
   text-align: left;
   font-size: 1.1rem;
   margin-bottom: 1.5rem;
+  border-radius: 10px;
 }
 
 .links {
@@ -114,6 +116,7 @@ nav a:hover {
   padding: 20px;
   transition: width 0.3s ease;
   text-align: center;
+  border-radius: 0 10px 10px 0;
 }
 
 .sidebar.collapsed {
