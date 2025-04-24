@@ -192,14 +192,3 @@ html, body {
   margin: 0;
   padding: 0;
 }
-
-.wrapper {
-  display: flex;
-  max-height: 95vh;
-  overflow: hidden;
-  border-radius: 12px;
-}
-
-.sidebar, .main-content {
-  overflow-y: auto;
-}
