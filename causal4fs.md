@@ -5,7 +5,7 @@ permalink: /causal4fs.html
 ---
 
 <img src="/assets/images/causal4fs_banner_.png" alt="Intro Figure" width="1000" style="max-width:100%; height:auto; display:block; margin: 0 auto 30px;">
-
+<section class="sections">
 <p>Research initiative applying causal inference methods to study food insecurity across different regions. This page provides an overview of several interconnected projects.</p>
 
 <h2>Projects</h2>
@@ -40,4 +40,5 @@ permalink: /causal4fs.html
   year = {2025},
   howpublished = {\url{https://github.com/jordicbau/Causal4FS}}
 }</code></pre>
+</section>
 
