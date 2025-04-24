@@ -5,6 +5,7 @@ body {
   margin: auto;
   padding: 2rem;
   max-width: 1500px;
+  max-height: 720px;
   line-height: 1.6;
 }
 
@@ -109,7 +110,7 @@ nav a:hover {
 }
 
 .sidebar {
-  width: 250px;
+  width: 200px;
   background-color: #f0f4f8;
   padding: 20px;
   transition: width 0.3s ease;
