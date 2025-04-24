@@ -1,3 +1,4 @@
+
 /* Reset scroll and layout limits */
 html, body {
   margin: 0;
@@ -7,7 +8,7 @@ html, body {
   background-color: #bfd5d5;
   color: #474747;
   line-height: 1.6;
-  overflow: hidden; /* No full-page scroll */
+  overflow: hidden;
 }
 
 /* Container for sidebar + main content */
@@ -15,7 +16,7 @@ html, body {
   display: flex;
   max-width: 1500px;
   margin: 20px auto;
-  height: calc(100vh - 40px); /* Full viewport height minus margin */
+  height: calc(100vh - 40px);
   align-items: stretch;
   border-radius: 12px;
   overflow: hidden;
@@ -44,21 +45,48 @@ html, body {
   gap: 10px;
 }
 
+/* Sidebar navigation */
 .sidebar-nav {
   list-style: none;
   padding: 0;
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .sidebar-nav li {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
-.sidebar-nav a {
+.sidebar-nav li a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-decoration: none;
   color: #003366;
-  display: block;
-  padding: 5px 10px;
+  transition: color 0.2s ease;
+}
+
+.sidebar-nav li a img {
+  width: 32px;
+  height: auto;
+  margin-bottom: 5px;
+  filter: brightness(1.4);
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.sidebar-nav li a:hover img,
+.sidebar-nav li a.active img {
+  transform: scale(1.2);
+  filter: brightness(1);
+}
+
+.sidebar-nav li a:hover,
+.sidebar-nav li a.active {
+  font-weight: bold;
+  color: #001f4d;
 }
 
 /* Main content */
@@ -86,7 +114,7 @@ html, body {
 }
 
 .bio-horizontal .profile-pic {
-  width: 180px; /* Larger */
+  width: 180px;
   height: 180px;
   object-fit: cover;
   border-radius: 50%;
@@ -94,13 +122,12 @@ html, body {
 
 .bio-horizontal .bio-text h1 {
   margin: 0;
-  font-size: 2rem; /* Slightly bigger */
+  font-size: 2rem;
 }
 
 .bio-horizontal .bio-text p {
   margin: 4px 0;
 }
-
 
 /* Header (used in legacy layout) */
 header {
