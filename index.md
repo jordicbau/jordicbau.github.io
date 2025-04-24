@@ -3,17 +3,20 @@ layout: default
 title: Jordi Cerdà-Bautista
 ---
 
-<header>
-  <h1>Jordi Cerdà-Bautista</h1>
-  <p><a href="mailto:jordicerdabautista@gmail.com">jordicerdabautista@gmail.com</a></p>
-  <nav>
-    <ul>
-      <li><a href="#home">HOME</a></li>
-      <li><a href="#research">RESEARCH</a></li>
-      <li><a href="#publications">PUBLICATIONS</a></li>
-      <li><a href="#cv">CV</a></li>
-    </ul>
-  </nav>
+<header class="header-with-photo">
+  <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
+  <div class="header-text">
+    <h1>Jordi Cerdà-Bautista</h1>
+    <p><a href="mailto:jordicerdabautista@gmail.com">jordicerdabautista@gmail.com</a></p>
+    <nav>
+      <ul>
+        <li><a href="#home">HOME</a></li>
+        <li><a href="#research">RESEARCH</a></li>
+        <li><a href="#publications">PUBLICATIONS</a></li>
+        <li><a href="#cv">CV</a></li>
+      </ul>
+    </nav>
+  </div>
 </header>
 
 <section class="bio">
