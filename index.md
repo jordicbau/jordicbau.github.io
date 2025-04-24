@@ -7,7 +7,6 @@ title: Jordi Cerdà-Bautista
   <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
   <div class="header-text">
     <h1>Jordi Cerdà-Bautista</h1>
-    <p><a href="mailto:jordicerdabautista@gmail.com">jordicerdabautista@gmail.com</a></p>
     <nav>
       <ul>
         <li><a href="/index.html">HOME</a></li>
@@ -29,7 +28,10 @@ title: Jordi Cerdà-Bautista
 <h3>Contact</h3>
 <section class="links">
   <a>
-    <code>jordicerdabautista@gmail.com | jordi.cerda@uv.es</code>
+    <code>jordicerdabautista@gmail.com</code>
+  </a>
+  <a>
+    <code>jordi.cerda@uv.es</code>
   </a>
   <a href="https://github.com/jordicbau" target="_blank">
     <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" height="30">
