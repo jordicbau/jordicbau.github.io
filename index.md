@@ -27,10 +27,10 @@ title: Jordi Cerdà-Bautista
 </section>
 
 <h3>Contact</h3>
-<p>You can reach me at: <code>jordicerdabautista@gmail.com | jordi.cerda@uv.es</code></p>
-
 <section class="links">
-  Find me on 
+  <a>
+    <code>jordicerdabautista@gmail.com | jordi.cerda@uv.es</code>
+  </a>
   <a href="https://github.com/jordicbau" target="_blank">
     <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" height="30">
   </a>
