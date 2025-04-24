@@ -55,7 +55,7 @@ html, body {
 }
 
 .sidebar-nav li {
-  margin-bottom: 30px; /* space between nav items */
+  margin-bottom: 40px; /* space between nav items */
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ html, body {
 }
 
 .sidebar-nav li a:hover img {
-  transform: scale(1.2);
+  transform: scale(1.1);
   filter: brightness(1.4);
 }
 
