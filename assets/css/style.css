@@ -56,6 +56,15 @@ nav a:hover {
   margin-bottom: 1.5rem;
 }
 
+.sections {
+  background-color: #f8f8f8;
+  padding: 1rem;
+  border-radius: 6px;
+  text-align: left;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
 .links {
   text-align: center;
   font-size: 0.95rem;
