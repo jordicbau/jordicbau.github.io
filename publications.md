@@ -19,7 +19,7 @@ title: Publications
   </div>
 </header>
 
-<section class="bio">
+<section class="sections">
 <h1>Publications</h1>
 <p>Here you'll find my published and working papers, as well as presentations and reports.</p>
 <ul>
