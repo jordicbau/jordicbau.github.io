@@ -3,7 +3,6 @@ body {
   background-color: #bfd5d5;
   color: #474747;
   margin: auto;
-  max-width: 720px;
   padding: 2rem;
   line-height: 1.6;
 }
@@ -27,11 +26,8 @@ header p {
 nav ul {
   list-style: none;
   padding: 0;
-  margin-top: 1rem;
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  font-size: 0.95rem;
+  margin: 10px 0 0;
+  display: block; /* stack vertically */
 }
 
 nav li {
@@ -137,6 +133,10 @@ nav a:hover {
 
 .sidebar-nav li {
   margin: 10px 0;
+}
+
+.sidebar-nav li {
+  margin-bottom: 10px;
 }
 
 .sidebar-nav a {
