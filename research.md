@@ -19,7 +19,7 @@ title: Research
   </div>
 </header>
 
-<section class="bio">
+<section class="sections">
 <h1>Research</h1>
 <p>I study the intersection of causal machine learning, climate variability, conflict, and food security in socio-environmental systems.</p>
 
