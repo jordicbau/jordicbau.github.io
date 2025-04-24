@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Jordi Cerdà-Bautista
@@ -10,10 +11,12 @@ title: Jordi Cerdà-Bautista
     <p><a href="mailto:jordicerdabautista@gmail.com">jordicerdabautista@gmail.com</a></p>
     <nav>
       <ul>
-        <li><a href="#home">HOME</a></li>
-        <li><a href="#research">RESEARCH</a></li>
-        <li><a href="#publications">PUBLICATIONS</a></li>
-        <li><a href="#cv">CV</a></li>
+        <li><a href="/index.html">HOME</a></li>
+        <li><a href="/research.html">RESEARCH</a></li>
+        <li><a href="/publications.html">PUBLICATIONS</a></li>
+        <li><a href="/cv.html">CV</a></li>
+        <li><a href="/about.html">ABOUT</a></li>
+        <li><a href="/contact.html">CONTACT</a></li>
       </ul>
     </nav>
   </div>
@@ -21,7 +24,8 @@ title: Jordi Cerdà-Bautista
 
 <section class="bio">
   <p>PhD student at IPL, Universitat de València</p>
-  <p>Researching causal ML to improve food security</p>
+  <p><strong>Causal ML for food security in a changing climate.</strong></p>
+  <p>I apply causal inference and machine learning to understand how conflict, climate variability, and policy interventions shape food insecurity in Africa and beyond.</p>
 </section>
 
 <section class="links">
@@ -38,4 +42,3 @@ title: Jordi Cerdà-Bautista
     <img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn" height="30">
   </a>
 </section>
-
