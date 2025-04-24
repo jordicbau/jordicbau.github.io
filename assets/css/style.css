@@ -48,23 +48,21 @@ nav a:hover {
 }
 
 .bio {
-  background-color: #f8f8f8;
+  background-color: #f8f8f899;
   padding: 1.2rem;
   border-radius: 8px;
   text-align: center;
   font-size: 1.1rem;
   margin-bottom: 1.5rem;
-  opacity: 0.6;
 }
 
 .sections {
-  background-color: #f8f8f8;
+  background-color: #f8f8f899;
   padding: 1rem;
   border-radius: 6px;
   text-align: left;
   font-size: 1.1rem;
   margin-bottom: 1.5rem;
-  opacity: 0.6;
 }
 
 .links {
