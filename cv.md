@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: CV
+---
+
 <h1>Curriculum Vitae</h1>
 <p>You can view or download my CV below:</p>
 
