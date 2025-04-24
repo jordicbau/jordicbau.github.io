@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Jordi Cerdà-Bautista
