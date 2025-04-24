@@ -216,7 +216,7 @@ nav a:hover {
   margin: 0 auto 5px; /* center icon and add spacing below it */
   width: 32px;
   height: auto;
-  transition: transform 0.2s ease, filter 0.2s ease;
+  transition: transform 0.05s ease, filter 0.05s ease;
 }
 
 .sidebar-nav li a:hover img {
