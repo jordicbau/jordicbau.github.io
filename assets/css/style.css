@@ -117,6 +117,8 @@ nav a:hover {
   transition: width 0.3s ease;
   text-align: center;
   border-radius: 0 10px 10px 0;
+  height: 100%;
+  overflow-y: auto; /* Scroll if content overflows */
 }
 
 .sidebar.collapsed {
@@ -174,3 +176,30 @@ nav a:hover {
   margin: 4px 0;
 }
 
+.main-content {
+  flex-grow: 1;
+  padding: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 20px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+html, body {
+  height: 100vh; /* Set the page to fill the viewport */
+  overflow: hidden; /* Prevent full-page scrolling */
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  max-height: 95vh;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.sidebar, .main-content {
+  overflow-y: auto;
+}
