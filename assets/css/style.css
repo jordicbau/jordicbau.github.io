@@ -203,3 +203,27 @@ nav a:hover {
   flex: 1;
   min-width: 200px;
 }
+
+.sidebar-nav li {
+  margin-bottom: 20px; /* adds space between nav items */
+  text-align: center;  /* center-align icon and label */
+}
+
+.sidebar-nav li a {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.sidebar-nav li a img {
+  display: block;
+  margin: 0 auto 5px; /* center icon and add spacing below it */
+  width: 32px;
+  height: auto;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.sidebar-nav li a:hover img {
+  transform: scale(1.2);
+  filter: brightness(1.2);
+}
