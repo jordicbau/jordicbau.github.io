@@ -9,7 +9,7 @@ title: Jordi Cerdà-Bautista
   </div>
 </section>
 <section class="bio">
-  <p>PhD student at IPL, Universitat de València</p>
+  <p>PhD candidate at IPL, Universitat de València</p>
   <p><strong>Causal ML for food security in a changing climate.</strong></p>
   <p>I apply causal inference and machine learning to understand how conflict, climate variability, and policy interventions shape food insecurity in Africa and beyond.</p>
 </section>
