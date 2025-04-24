@@ -47,6 +47,10 @@ nav a:hover {
   font-weight: bold;
 }
 
+nav a.active {
+  font-weight: bold;
+}
+
 .bio {
   background-color: #f8f8f8;
   padding: 1.2rem;
