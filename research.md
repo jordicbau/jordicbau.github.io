@@ -7,10 +7,22 @@ title: Research
 <h1>Research</h1>
 <p>I study the intersection of causal machine learning, climate variability, conflict, and food security in socio-environmental systems.</p>
 
-<h2>PhD Thesis</h2>
+<h2>Projects</h2>
+
+<h3><a href="https://github.com/jordicbau/Causal4FS-CBT" target="_blank">Causal4FS-CBT</a></h3>
 <ul>
-  <li><strong>Paper 1:</strong> Estimating the Average Treatment Effect of cash-based transfers on food security in Somalia using causal graphs and sensitivity analysis.</li>
-  <li><strong>Paper 2</strong> (in progress)</li>
-  <li><strong>Paper 3</strong> (in progress)</li>
+  <li><strong>Topic:</strong> Cash-Based Transfers in Somalia</li>
+  <li><strong>Method:</strong> Average Treatment Effect (ATE)</li>
+  <li><strong>Focus:</strong> Estimates the causal effect of humanitarian cash-based transfers on the number of people in IPC Phase 3 or higher.</li>
+  <li><strong>Data:</strong> Collected and merged various indicators to construct a country-level dataset.</li>
 </ul>
+
+<h3><a href="https://github.com/jordicbau/Causal4FS-Prices" target="_blank">Causal4FS-Prices</a> <em>(WIP)</em></h3>
+<ul>
+  <li><strong>Topic:</strong> Food Prices, ENSO & Vegetation across Sub-Saharan Africa</li>
+  <li><strong>Method:</strong> Conditional Average Treatment Effect (CATE)</li>
+  <li><strong>Focus:</strong> Investigates how food prices affect food security across Africa, conditioned on the effects of ENSO on NDVI. </li>
+  <li><strong>Data:</strong> Uses an externally constructed dataset covering food prices, NDVI, and IPC classification.</li>
+</ul>
+
 </section>
