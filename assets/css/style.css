@@ -151,3 +151,28 @@ nav a:hover {
   padding: 40px;
   background-color: #fff;
 }
+
+.bio-horizontal {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 40px;
+  background-color: #ffffff;
+}
+
+.bio-horizontal .profile-pic {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.bio-horizontal .bio-text h1 {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+.bio-horizontal .bio-text p {
+  margin: 4px 0;
+}
+
