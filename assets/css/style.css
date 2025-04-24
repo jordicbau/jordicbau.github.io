@@ -7,21 +7,19 @@ html, body {
   background-color: #bfd5d5;
   color: #474747;
   line-height: 1.6;
-  overflow: hidden; /* No full-page scroll */
+  overflow: hidden;
 }
 
-/* Container for sidebar + main content */
 .wrapper {
   display: flex;
   max-width: 1500px;
   margin: 20px auto;
-  height: calc(100vh - 40px); /* Full viewport height minus margin */
+  height: calc(100vh - 40px);
   align-items: stretch;
   border-radius: 12px;
   overflow: hidden;
 }
 
-/* Sidebar */
 .sidebar {
   width: 100px;
   background-color: #f0f4f8;
@@ -44,7 +42,6 @@ html, body {
   gap: 10px;
 }
 
-/* Sidebar Nav Styles */
 .sidebar-nav {
   list-style: none;
   padding: 0;
@@ -55,7 +52,7 @@ html, body {
 }
 
 .sidebar-nav li {
-  margin-bottom: 40px; /* space between nav items */
+  margin-bottom: 30px;
   text-align: center;
 }
 
@@ -72,21 +69,22 @@ html, body {
   width: 32px;
   height: auto;
   margin-bottom: 5px;
-  filter: brightness(1.4); /* brighter by default */
+  filter: brightness(1.4); /* Bright by default */
   transition: transform 0.2s ease, filter 0.2s ease;
 }
 
-.sidebar-nav li a:hover img {
+.sidebar-nav li a:hover img,
+.sidebar-nav li a.active img {
   transform: scale(1.2);
-  filter: brightness(1); /* darker (normal) on hover */
+  filter: brightness(1); /* Darken on hover or active */
 }
 
-.sidebar-nav li a:hover {
+.sidebar-nav li a:hover,
+.sidebar-nav li a.active {
   font-weight: bold;
-  color: #001f4d; /* optional: darker text */
+  color: #001f4d;
 }
 
-/* Main content */
 .main-content {
   flex-grow: 1;
   padding: 40px;
@@ -99,7 +97,6 @@ html, body {
   flex-direction: column;
 }
 
-/* Bio section with profile and name side-by-side */
 .bio-horizontal {
   display: flex;
   flex-direction: column;
@@ -127,7 +124,6 @@ html, body {
   margin: 4px 0;
 }
 
-/* Header (used in legacy layout) */
 header {
   text-align: center;
   margin-bottom: 2rem;
@@ -144,7 +140,6 @@ header p {
   font-size: 1rem;
 }
 
-/* Navigation (legacy) */
 nav ul {
   list-style: none;
   padding: 0;
@@ -165,7 +160,6 @@ nav a:hover {
   font-weight: bold;
 }
 
-/* Bio block (legacy, optional use) */
 .bio {
   background-color: #f8f8f899;
   padding: 1.2rem;
@@ -175,7 +169,6 @@ nav a:hover {
   margin-bottom: 1.5rem;
 }
 
-/* Content sections */
 .sections {
   background-color: #f8f8f899;
   padding: 1rem;
@@ -185,7 +178,6 @@ nav a:hover {
   margin-bottom: 1.5rem;
 }
 
-/* Footer links and icons */
 .links {
   text-align: center;
   font-size: 0.95rem;
@@ -207,7 +199,6 @@ nav a:hover {
   transform: scale(1.3);
 }
 
-/* Photo + name block (legacy horizontal header) */
 .header-with-photo {
   display: flex;
   align-items: center;
