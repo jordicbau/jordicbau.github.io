@@ -40,11 +40,11 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #0056b3;
+  color: #4e627c;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  font-weight: bold;
 }
 
 .bio {
@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .links a {
-  color: #0056b3;
+  color: #4e627c;
   text-decoration: none;
   margin: 0 0.5rem;
 }
