@@ -201,7 +201,7 @@ nav a:hover {
 }
 
 .sidebar-nav li {
-  margin-bottom: 50px; /* adds space between nav items */
+  margin-bottom: 100px; /* adds space between nav items */
   text-align: center;  /* center-align icon and label */
 }
 
