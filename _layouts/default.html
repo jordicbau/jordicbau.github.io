@@ -10,11 +10,6 @@
 <body>
   <div class="wrapper">
     <nav id="sidebar" class="sidebar">
-      <div class="sidebar-header">
-        <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture" class="profile-pic">
-        <h2>Jordi Cerdà-Bautista</h2>
-        <button class="toggle-btn" onclick="toggleSidebar()">☰</button>
-      </div>
       <ul class="sidebar-nav">
         <li><a href="/index.html">Home</a></li>
         <li><a href="/research.html">Research</a></li>
@@ -25,6 +20,8 @@
       </ul>
     </nav>
     <main class="main-content">
+      <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
+      <h1>Jordi Cerdà-Bautista</h1>
       {{ content }}
     </main>
   </div>
