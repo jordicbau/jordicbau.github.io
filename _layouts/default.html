@@ -19,9 +19,13 @@
         <li><a href="/contact.html">Contact</a></li>
       </ul>
     </nav>
-    <main class="main-content">
+    <header class="header-with-photo">  
       <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
-      <h1>Jordi Cerdà-Bautista</h1>
+      <div class="header-text">
+        <h1>Jordi Cerdà-Bautista</h1>
+      </div>
+    </header>
+    <main class="main-content">
       {{ content }}
     </main>
   </div>
