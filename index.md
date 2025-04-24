@@ -27,7 +27,11 @@ title: Jordi Cerdà-Bautista
   <p>I apply causal inference and machine learning to understand how conflict, climate variability, and policy interventions shape food insecurity in Africa and beyond.</p>
 </section>
 
+<h3>Contact</h3>
+<p>You can reach me at: <code>jordicerdabautista@gmail.com | jordi.cerda@uv.es</code></p>
+
 <section class="links">
+  Find me on 
   <a href="https://github.com/jordicbau" target="_blank">
     <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" height="30">
   </a>
