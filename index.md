@@ -15,7 +15,6 @@ title: Jordi Cerdà-Bautista
         <li><a href="/publications.html">PUBLICATIONS</a></li>
         <li><a href="/cv.html">CV</a></li>
         <li><a href="/about.html">ABOUT</a></li>
-        <li><a href="/contact.html">CONTACT</a></li>
       </ul>
     </nav>
   </div>
