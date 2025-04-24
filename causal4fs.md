@@ -6,8 +6,7 @@ permalink: /causal4fs.html
 
 <img src="/assets/images/causal4fs_banner_.png" alt="Intro Figure" width="1000" style="max-width:100%; height:auto; display:block; margin: 0 auto 30px;">
 
-<h1>Welcome to <strong>Causal4FS</strong></h1>
-<p>A research initiative applying causal inference methods to study food insecurity across different regions. This page provides an overview of several interconnected projects.</p>
+<p>Research initiative applying causal inference methods to study food insecurity across different regions. This page provides an overview of several interconnected projects.</p>
 
 <h2>Projects</h2>
 
@@ -42,8 +41,3 @@ permalink: /causal4fs.html
   howpublished = {\url{https://github.com/jordicbau/Causal4FS}}
 }</code></pre>
 
-<h2>Links</h2>
-<ul>
-  <li><a href="https://github.com/jordicbau/Causal4FS-CBT" target="_blank">Causal4FS-CBT</a></li>
-  <li><a href="https://github.com/jordicbau/Causal4FS-Prices" target="_blank">Causal4FS-Prices</a></li>
-</ul>
