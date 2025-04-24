@@ -2,7 +2,12 @@
 layout: default
 title: Jordi Cerdà-Bautista
 ---
-
+<section class="bio-horizontal">
+  <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
+  <div class="bio-text">
+    <h1>Jordi Cerdà-Bautista</h1>
+  </div>
+</section>
 <section class="bio">
   <p>PhD student at IPL, Universitat de València</p>
   <p><strong>Causal ML for food security in a changing climate.</strong></p>
