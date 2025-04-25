@@ -229,3 +229,13 @@ nav a:hover {
   flex: 1;
   min-width: 200px;
 }
+
+.publication-link {
+  color: #4e627c;
+  text-decoration: none;
+}
+
+.publication-link:hover {
+  color: #4e627c;
+  font-weight: bold;
+}
