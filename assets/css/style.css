@@ -99,7 +99,7 @@ html, body {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  max-width: 1400px; /* or whatever looks balanced with your sidebar */
+  max-width: 1000px;
   overflow-wrap: break-word; /* ensures long lines break */
   word-break: break-word;
 }
