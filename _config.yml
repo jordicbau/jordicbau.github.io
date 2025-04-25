@@ -3,3 +3,5 @@ description: "Causal ML & AI for Food Security"
 theme: minima
 baseurl: ""
 url: "https://jordicbau.github.io"
+plugins:
+  - jekyll-sitemap
