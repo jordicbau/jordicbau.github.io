@@ -6,10 +6,10 @@ title: Jordi Cerdà-Bautista
   <img class="profile-pic" src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Picture">
   <div class="bio-text">
     <h1>Jordi Cerdà-Bautista</h1>
+    <p>PhD candidate at IPL, Universitat de València</p>
   </div>
 </section>
 <section class="bio">
-  <p>PhD candidate at IPL, Universitat de València</p>
   <p><strong>Causal ML for food security in a changing climate.</strong></p>
   <p>I study how environmental and social disruptions—like climate variability, conflict, and market shocks—affect food security in vulnerable systems. My research focuses on applying causal inference and machine learning to understand and quantify these effects, to inform more equitable and effective policy interventions.</p>
   <p>My work is rooted in real-world impact and cross-disciplinary methods, drawing from data science and remote sensing, and is currently focused on Africa-wide applications.</p>
