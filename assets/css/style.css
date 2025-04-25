@@ -105,7 +105,9 @@ html, body {
   overflow-wrap: break-word; /* ensures long lines break */
   word-break: break-word;
 }
-
+.main-content p {
+  text-align: justify;
+}
 /* Bio section with profile and name side-by-side */
 .bio-horizontal {
   display: flex;
