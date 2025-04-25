@@ -7,8 +7,6 @@ title: Publications
 <h1>Publications</h1>
 <p>Here you'll find my published and working papers, as well as presentations and reports.</p>
 
-<h2>📝 Publications</h2>
-
 <h4>2024</h4>
 <ul>
   <li>
