@@ -7,7 +7,7 @@ title: Research
 <h1>Research</h1>
 <p>I study the intersection of causal machine learning, climate variability, conflict, and food security in socio-environmental systems.</p>
 
-<h2>Projects</h2>
+<h2>Studies</h2>
 
 <h3>Causal4FS-CBT <a class="links" href="https://github.com/jordicbau/Causal4FS-CBT" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" height="17"></a></h3>
 <ul>
