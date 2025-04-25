@@ -12,12 +12,12 @@ title: Publications
 <h4>2024</h4>
 <ul>
   <li>
-    <strong>J. M. Tárraga</strong>, E. Sevillano-Marco, J. Muñoz-Marí, M. Piles, V. Sitokonstantinou, M. Ronco, M. T. Miranda, <strong>J. Cerdà</strong>, G. Camps-Valls.<br>
+    J. M. Tárraga, E. Sevillano-Marco, J. Muñoz-Marí, M. Piles, V. Sitokonstantinou, M. Ronco, M. T. Miranda, <strong>J. Cerdà</strong>, G. Camps-Valls.<br>
     <em>Causal discovery reveals complex patterns of drought-induced displacement</em>.<br>
     <em>iScience</em>, 27(9).
   </li>
   <li>
-    <strong>V. Sitokonstantinou</strong>, E.D.S. Porras, <strong>J.C Bautista</strong>, M. Piles, I. Athanasiadis, G. Camps-Valls.<br>
+    V. Sitokonstantinou, E.D.S. Porras, <strong>J.C Bautista</strong>, M. Piles, I. Athanasiadis, G. Camps-Valls.<br>
     <em>Causal Machine Learning for Sustainable Agroecosystems</em>.<br>
     <em>arXiv preprint</em>, arXiv:2408.13155.
   </li>
