@@ -23,15 +23,15 @@ title: Publications
   </li>
   <li>
     <strong>J. Cerdà-Bautista</strong>, J.M. Tárraga, V. Sitokonstantinou, G. Camps-Valls.<br>
-    <em>Causal Evaluation of Humanitarian Aid on Food Security</em>.<br>
-    <em>EGU General Assembly Conference Abstracts</em>, 17312.
-    <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17312.html?pdf" class="publication-link" target="_blank">[Link]</a>
-  </li>
-  <li>
-    <strong>J. Cerdà-Bautista</strong>, J.M. Tárraga, V. Sitokonstantinou, G. Camps-Valls.<br>
     <em>Assessing the Causal Impact of Humanitarian Aid on Food Security</em>.<br>
     <em>IGARSS 2024 - IEEE International Geoscience and Remote Sensing Symposium</em>.
     <a href="https://arxiv.org/abs/2310.11287" class="publication-link" target="_blank">[Link]</a>
+  </li>
+  <li>
+    <strong>J. Cerdà-Bautista</strong>, J.M. Tárraga, V. Sitokonstantinou, G. Camps-Valls.<br>
+    <em>Causal Evaluation of Humanitarian Aid on Food Security</em>.<br>
+    <em>EGU General Assembly Conference Abstracts</em>, 17312.
+    <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17312.html?pdf" class="publication-link" target="_blank">[Link]</a>
   </li>
 </ul>
 
