@@ -99,7 +99,7 @@ html, body {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  max-width: 1000px;
+  max-width: 1300px;
   overflow-wrap: break-word; /* ensures long lines break */
   word-break: break-word;
 }
