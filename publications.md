@@ -10,12 +10,6 @@ title: Jordi Cerdà-Bautista
 <h4>2025</h4>
 <ul>
   <li>
-    M. Machefer, M. Ronco, A.-C. Thomas, M. Meroni, J. M. Veiga Lopez-Pena, M. Assouline, M. Rabier, G. Camps-Valls, V. Sitokonstantinou, <strong>J. Cerdà</strong>, E. Rodrigo Bonet, A. Matano, T. Busker, N. Rost, K. Chungmann, D. Piovani, C. Corbane, F. Rembold.<br>
-    <em>Operational and actionable Acute Food Insecurity modelling</em>.<br>
-    <em>EGU General Assembly Conference Abstracts</em>, EGU25-19870.
-    <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-19870.html" class="publication-link" target="_blank">[Link]</a>
-  </li>
-  <li>
     E. Rodrigo-Bonet, <strong>J. Cerdà</strong>, M. Ronco,G. Camps-Valls.<br>
     <em>Hierarchical Causal Graph-Based Methods for Imputing Food Insecurity</em>.<br>
     <em>EGU General Assembly Conference Abstracts</em> EGU25-17133.
