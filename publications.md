@@ -45,7 +45,7 @@ title: Jordi Cerdà-Bautista
   <li>
     <strong>J. Cerdà-Bautista</strong>, J.M. Tárraga, V. Sitokonstantinou, G. Camps-Valls.<br>
     <em>Causal Evaluation of Humanitarian Aid on Food Security</em>.<br>
-    <em>EGU General Assembly Conference Abstracts</em>, 17312.
+    <em>EGU General Assembly Conference Abstracts</em>, EGU24-17312.
     <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17312.html?pdf" class="publication-link" target="_blank">[Link]</a>
   </li>
 </ul>
@@ -61,8 +61,8 @@ title: Jordi Cerdà-Bautista
   <li>
     <strong>J. Cerdà-Bautista</strong>, J. M. Tárraga, G. Varando, A. Arribas, T. Shepherd, G. Camps-Valls.<br>
     <em>Causal Inference to Study Food Insecurity in Africa</em>.<br>
-    <em>EGU General Assembly Conference Abstracts</em>, EGU-15000.
-    <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17312.html" class="publication-link" target="_blank">[Link]</a>
+    <em>EGU General Assembly Conference Abstracts</em>, EGU23-15000.
+    <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-15000.html" class="publication-link" target="_blank">[Link]</a>
   </li>
   <li>
     V. Elvira, É. Chouzenoux, <strong>J. Cerdà</strong>, G. Camps-Valls.<br>
