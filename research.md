@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Jordi Cerdà-Bautista
 ---
 
 <section class="sections">
