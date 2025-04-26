@@ -176,7 +176,7 @@ nav a:hover {
 
 /* Bio block (legacy, optional use) */
 .bio {
-  background-color: #f8f8f899;
+  background-color: #f0f4f8;
   padding: 1.2rem;
   border-radius: 10px;
   text-align: left;
@@ -186,7 +186,7 @@ nav a:hover {
 
 /* Content sections */
 .sections {
-  background-color: #f8f8f899;
+  background-color: #f0f4f8;
   padding: 1rem;
   border-radius: 10px;
   text-align: left;
