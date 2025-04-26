@@ -44,7 +44,7 @@ title: Jordi Cerdà-Bautista
     <a href="https://wcrp-osc2023.org/poster-awardees" class="publication-link" target="_blank">[Link]</a>
   </li>
   <li>
-    <strong>J. Cerdà-Bautista</strong>, J. María Tárraga, G. Varando, A. Arribas, T. Shepherd, G. Camps-Valls.<br>
+    <strong>J. Cerdà-Bautista</strong>, J. M. Tárraga, G. Varando, A. Arribas, T. Shepherd, G. Camps-Valls.<br>
     <em>Causal Inference to Study Food Insecurity in Africa</em>.<br>
     <em>EGU General Assembly Conference Abstracts</em>, EGU-15000.
     <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-17312.html" class="publication-link" target="_blank">[Link]</a>
