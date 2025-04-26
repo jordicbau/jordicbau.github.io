@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Jordi Cerdà-Bautista
 ---
 
 <section class="sections">
