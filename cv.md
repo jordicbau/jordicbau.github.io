@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Jordi Cerdà-Bautista
 ---
 
 <section class="sections">
