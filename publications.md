@@ -38,6 +38,12 @@ title: Jordi Cerdà-Bautista
 <h4>2023</h4>
 <ul>
   <li>
+    <strong>J. Cerdà-Bautista</strong>, J. María Tárraga, G. Varando, A. Arribas, T. Shepherd, M. Piles, G. Camps-Valls.<br>
+    <em>Understanding food insecurity in Africa through data-driven causal inference methods</em>.<br>
+    <em>WRCP OSC 2023 - World Climate Research Programme</em>.
+    <a href="https://wcrp-osc2023.org/poster-awardees" class="publication-link" target="_blank">[Link]</a>
+  </li>
+  <li>
     <strong>J. Cerdà-Bautista</strong>, J. María Tárraga, G. Varando, A. Arribas, T. Shepherd, G. Camps-Valls.<br>
     <em>Causal Inference to Study Food Insecurity in Africa</em>.<br>
     <em>EGU General Assembly Conference Abstracts</em>, EGU-15000.
