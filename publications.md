@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Jordi Cerdà-Bautista
 ---
 
 <section class="sections">
