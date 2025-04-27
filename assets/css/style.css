@@ -250,3 +250,15 @@ nav a:hover {
 h1 {
   color: #4e627c;
 }
+
+h2 {
+  color: #6b7c93; /* Slightly lighter for section titles */
+}
+
+h3 {
+  color: #8796ab; /* Softer for subsection titles */
+}
+
+h4, h5, h6 {
+  color: #8796ab; /* Same as h3 for consistency */
+}
