@@ -8,14 +8,7 @@ title: Jordi Cerdà-Bautista
 <p>Here you'll find my published and working papers, as well as presentations and reports.</p>
 
 <h4>2025</h4>
-<ul>
-  <li>
-    E. Rodrigo-Bonet, <strong>J. Cerdà</strong>, M. Ronco,G. Camps-Valls.<br>
-    <em>Hierarchical Causal Graph-Based Methods for Imputing Food Insecurity</em>.<br>
-    <em>EGU General Assembly Conference Abstracts</em> EGU25-17133.
-    <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17133.html" class="publication-link" target="_blank">[Link]</a>
-  </li>
-</ul>
+
 <h4>2024</h4>
 <ul>
   <li>
